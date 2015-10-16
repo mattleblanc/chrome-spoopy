@@ -41,6 +41,8 @@ function handleText(textNode)
 	v = v.replace(/\bspooky\b/g, "spoopy");
 	v = v.replace(/\b.*Halloween\b/g, "Spookloween");
 	v = v.replace(/\b.*halloween\b/g, "spookloween");
+	v = v.replace(/\b.*Hallowe\'en\b/g, "Spooklowe\'en");
+	v = v.replace(/\b.*hallowe\'en\b/g, "spooklowe\'en");
 	v = v.replace(/\bAllhallowe\'en\b/g, "Allspooklowe\'en");
 	v = v.replace(/\ballhallowe\'en\b/g, "allspooklowe\'en");
 	v = v.replace(/\bHallows\b/g, "Spookles");
