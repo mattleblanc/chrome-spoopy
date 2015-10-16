@@ -6,7 +6,7 @@ Chrome extension that replaces occurrences of 'spooky' with 'spoopy' and 'Hallow
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag chrome-spoopy.crx into the page that appears.
+In Chrome, simply drag chrome-spoopy.crx into the extension page.
 
 Credits
 -------
