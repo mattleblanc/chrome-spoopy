@@ -1,7 +1,7 @@
 chrome-spoopy
 =============
 
-Chrome extension that replaces occurrences of 'spooky' with 'spoopy' and 'Halloween' with 'Spookleoween' in text during October.
+Chrome extension that replaces occurrences of 'spooky' with 'spoopy' and 'Halloween' with 'Spookloween' in text during October.
 
 Installation
 ------------

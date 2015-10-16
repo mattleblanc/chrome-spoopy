@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "chrome-spoopy",
 	"version": "1.0",
-	"description": "Chrome extension that replaces occurrences of 'spooky' with 'spoopy' and 'Halloween' with 'Spookleoween' in text during October.",
+	"description": "Chrome extension that replaces occurrences of 'spooky' with 'spoopy' and 'Halloween' with 'Spookloween' in text during October.",
 	"content_scripts": 
 	[
 		{
