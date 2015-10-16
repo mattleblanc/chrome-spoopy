@@ -39,10 +39,10 @@ function handleText(textNode)
 
 	v = v.replace(/\bSpooky\b/g, "Spoopy");
 	v = v.replace(/\bspooky\b/g, "spoopy");
-	v = v.replace(/\b.*Halloween\b/g, "Spookleoween");
-	v = v.replace(/\b.*halloween\b/g, "spookleoween");
-	v = v.replace(/\bAllhallowe\'en\b/g, "Allspookleowe\'en");
-	v = v.replace(/\ballhallowe\'en\b/g, "allspookleowe\'en");
+	v = v.replace(/\b.*Halloween\b/g, "Spookloween");
+	v = v.replace(/\b.*halloween\b/g, "spookloween");
+	v = v.replace(/\bAllhallowe\'en\b/g, "Allspooklowe\'en");
+	v = v.replace(/\ballhallowe\'en\b/g, "allspooklowe\'en");
 	v = v.replace(/\bHallows\b/g, "Spookles");
 	v = v.replace(/\bhallows\b/g, "spookles");
 	textNode.nodeValue = v;
